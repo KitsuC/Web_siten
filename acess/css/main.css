@@ -238,7 +238,7 @@
 }
 
 .container-banner-wrap{
-    background-image: url('/acess/img/lucgiac.png');
+    background-image: url(http://127.0.0.1:5500/acess/img/lucgiac.png);
     background-size: cover;
     position: absolute;
     top: -17rem;
@@ -436,7 +436,7 @@
 }
 
 .container-recent{
-    background-image: url('/acess/img/bg-2.png');
+    background-image: url(https://siten.vn/home/images/partner1-01.png);
     height: 70rem;
     background-size: cover ;
     background-position: center;
@@ -477,7 +477,7 @@
 }
 
 .container-last{
-    background-image: url('/acess/img/bg-3.jpg');
+    background-image: url(https://siten.vn/home/images/mantra.jpg);
     background-size: cover;
     height: 500px;
     padding-top: 42px;
